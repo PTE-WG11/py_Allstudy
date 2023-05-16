@@ -1,0 +1,16 @@
+{
+  "name": "wgy",
+  "age": 18,
+  "dict": {
+    "one": 1,
+    "two": 2,
+    "three": [
+      "one",
+      "three"
+    ]
+  },
+  "lst": [
+    "one",
+    "two"
+  ]
+}
